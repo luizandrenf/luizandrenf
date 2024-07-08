@@ -2,8 +2,6 @@
 
 Olá! Sou um desenvolvedor fullstack! aqui tenho alguns projetos pessoais desenvolvidos com a finalidade de praticar. 
 
-![Fullstack Developer](https://example.com/fullstack-developer-image.png)
-
 ## 🛠️ Tecnologias e Ferramentas
 
 
