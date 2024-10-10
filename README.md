@@ -1,6 +1,6 @@
 # 👨‍💻 Desenvolvedor Fullstack
 
-Olá! Sou um desenvolvedor fullstack! aqui tenho alguns projetos pessoais desenvolvidos com a finalidade de praticar. 
+Olá! Sou um desenvolvedor fullstack! Aqui tenho alguns projetos pessoais desenvolvidos com a finalidade de praticar. 
 
 ## 🛠️ Tecnologias e Ferramentas
 
