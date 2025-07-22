@@ -1,6 +1,6 @@
 # 👨‍💻 Full Stack Developer 
 
-Hi! I'm a Full Stack Developer! Here I have some projects developed to practice! 
+Hi! I'm a Full Stack Developer! Here I have some projects developed to my own practice.
 
 ## 🛠️ Technologies and Tools
 
