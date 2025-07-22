@@ -1,8 +1,8 @@
-# 👨‍💻 Desenvolvedor Fullstack
+# 👨‍💻 Full Stack Developer 
 
-Olá! Sou um desenvolvedor fullstack! Aqui tenho alguns projetos pessoais desenvolvidos com a finalidade de praticar. 
+Hi! I'm a Full Stack Developer! Here I have some projects developed to practice! 
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
