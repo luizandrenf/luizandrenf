@@ -105,15 +105,6 @@ Exploring the **.NET ecosystem** (C#, ASP.NET Core, Entity Framework) and going 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizandrenf&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizandrenf&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
-</p>
-
----
-
 ### 🗣️ Languages
 
 **Portuguese** — Native &nbsp;·&nbsp; **English** — B2 (Intermediate-Advanced)
