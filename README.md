@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About me
 
-Full Stack Developer with a track record of growth — from frontend trainee to international remote work for a US-based SaaS company. I build production-grade applications and scalable cloud infrastructure with **TypeScript**, **NestJS**, **Angular** and **AWS**.
+Full Stack Developer with a track record of growth. I build production-grade applications and scalable cloud infrastructure with **TypeScript**, **NestJS**, **Angular** and **AWS**.
 
-- 🏢 Currently at **Elation Inc.** (USA, remote) — B2B SaaS for enterprise assessments
+- 🏢 Currently at **Eldorado Research Institute** (Manaus, Hybrid)
 - ☁️ I design AWS architectures — from serverless functions to full **Infrastructure as Code** migrations with CloudFormation
 - 🤖 I integrate **LLMs** to generate dynamic, personalized user-facing reports
 - ⚡ Real-time systems with **WebSockets** and **WebRTC**
@@ -82,7 +82,6 @@ Full Stack Developer with a track record of growth — from frontend trainee to 
 
 | | |
 |---|---|
-| **Elation Inc.** · USA (Remote) | Backend and cloud architecture on AWS, full CI/CD pipeline (CodeBuild → CodeDeploy → ECR → ECS), serverless event-driven workflows, and LLM-powered personalized assessment reports. |
 | **Eldorado Research Institute** · Motorola EMM products | Moto Device Manager (MDM) and Moto Remote Control (MRC). Introduced automated testing to MDM from scratch, led the MRC migration to CloudFormation (IaC), and built AnyDesk-like remote control using WebSockets and WebRTC. |
 | **Caspian** (academic / TCC) | SaaS mobile travel planning platform powered by LLMs. |
 
@@ -106,6 +105,9 @@ Exploring the **.NET ecosystem** (C#, ASP.NET Core, Entity Framework) and going 
 ---
 
 ### 🗣️ Languages
+
+- **English** · B2
+- **Portuguese** · Native
 
 **Portuguese** — Native &nbsp;·&nbsp; **English** — B2 (Intermediate-Advanced)
 
