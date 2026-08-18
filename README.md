@@ -1,7 +1,7 @@
 <h1 align="center">Luiz André Nascimento Ferreira</h1>
 
 <p align="center">
-  <b>Mid-Level Full Stack Developer &middot; Cloud / DevOps Engineer</b><br>
+  <b>Full Stack Developer &middot; Cloud / DevOps Engineer</b><br>
   <sub>Manaus, AM — Brazil 🇧🇷</sub>
 </p>
 
