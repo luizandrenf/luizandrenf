@@ -108,7 +108,6 @@ Exploring the **.NET ecosystem** (C#, ASP.NET Core, Entity Framework) and going 
 
 - **English** · B2
 - **Portuguese** · Native
-- 
 ---
 
 <p align="center">
