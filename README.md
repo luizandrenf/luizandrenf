@@ -108,9 +108,7 @@ Exploring the **.NET ecosystem** (C#, ASP.NET Core, Entity Framework) and going 
 
 - **English** · B2
 - **Portuguese** · Native
-
-**Portuguese** — Native &nbsp;·&nbsp; **English** — B2 (Intermediate-Advanced)
-
+- 
 ---
 
 <p align="center">
